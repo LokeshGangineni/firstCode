@@ -1,3 +1,3 @@
 # firstCode
 This is my first repository
-Author -lokesh
+Author -lokesh Gangineni
